@@ -1,0 +1,4 @@
+# Netlify: bakes config.json into index.html on every deploy, then publishes the folder as-is.
+[build]
+  command = "node tools/prerender.mjs"
+  publish = "."
