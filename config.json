@@ -5,7 +5,7 @@
     "lang": "ru",
     "title": "Строительная бригада в [Город]: кладка, отделка, кровля, электрика, сантехника",
     "description": "Бригада мастеров в [Город] и области: кирпичная кладка, отделка, кровля, электромонтаж и сантехника. Бесплатный выезд на замер, фиксированная смета, гарантия на работы.",
-    "url": "https://example.com/",
+    "url": "https://builders-chi-two.vercel.app/",
     "ogImage": "assets/og-image.jpg",
     "themeColor": "#F26A1B"
   },
@@ -27,9 +27,9 @@
     "phoneHref": "+70000000000",
     "messenger": {
       "label": "Telegram",
-      "url": "https://t.me/your_username"
+      "url": "https://t.me/mtiwork"
     },
-    "email": "[email@example.com]",
+    "email": "[strauzzcode@gmail.com]",
     "hours": [
       { "days": "Пн–Сб", "time": "[08:00–20:00]" },
       { "days": "Вс", "time": "[по договорённости]" }
